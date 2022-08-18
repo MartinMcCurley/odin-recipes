@@ -1,0 +1,1 @@
+This project is to create a very simple website with links to multiple pages and images.
